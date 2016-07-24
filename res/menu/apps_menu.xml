@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.test.MainActivity" >
+    <item android:id="@+id/viewAll" android:orderInCategory="1" android:title="@string/viewAllText"></item>
+    <item android:id="@+id/viewFav" android:orderInCategory="2" android:title="@string/viewFavTxt"></item>
+    <item android:id="@+id/clearFavs" android:orderInCategory="3" android:title="@string/clearFavsTxt"></item>
+    <item android:id="@+id/viewShared" android:orderInCategory="4" android:title="@string/viewSharedTxt"></item>
+    <item android:id="@+id/clearShared" android:orderInCategory="5" android:title="@string/clearSharedTxt"></item>
+    <item android:id="@+id/logout" android:orderInCategory="6" android:title="@string/logoutTxt"></item>
+    
+</menu>

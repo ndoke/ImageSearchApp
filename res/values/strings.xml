@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Homework05</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_apps">AppsActivity</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sort_dev_name">Sort By Developer</string>
+    <string name="action_sort_app_name">Sort By App Name</string>
+    <string name="action_sort_app_price">Sort By App Price</string>
+    <string name="action_clear_history">Clear History</string>
+    <string name="appBtnTxt">App List</string>
+    <string name="historyBtnTxt">History</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_add">Add</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_to_do">ToDoActivity</string>
+    <string name="name">First Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="new_account">Create New Account</string>
+    <string name="alertTextHint">Enter Text</string>
+    <string name="viewAllText">View All</string>
+    <string name="viewFavTxt">View Favorites</string>
+    <string name="clearFavsTxt">Clear Favorites</string>
+    <string name="viewSharedTxt">View Shared</string>
+    <string name="clearSharedTxt">Clear Shared</string>
+    <string name="logoutTxt">Logout</string>
+    <string name="firstNameHint">First Name</string>
+    <string name="lastNameHint">Last Name</string>
+    <string name="title_activity_web_view">WebView Activity</string>
+
+</resources>
